@@ -1,0 +1,23 @@
+GET /brother.html  HTTP/1.1
+Host: hao.360.cn
+If-modified-since:Fri, 18 May 2012 09:23:24 GMT
+
+
+HEAD /brother.html  HTTP/1.1
+Host: hao.360.cn
+If-modified-since:Fri, 18 May 2012 09:23:24 GMT
+
+
+HEAD /brother.html  HTTP/1.1
+Host: hao.360.cn
+Connection: close
+If-modified-since:Mon, 30 Dec 2013 13:46:27 GMT
+
+
+
+
+
+
+
+
+http://image.baidu.com/
